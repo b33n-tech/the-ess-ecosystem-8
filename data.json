@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Appel à projets Financement ESS",
+    "deadline": "2025-12-31",
+    "url": "https://exemple.com/financement",
+    "tags": ["financement", "structuration"],
+    "niveau": "bas"
+  },
+  {
+    "title": "Programme Accompagnement Startups",
+    "deadline": "2025-11-30",
+    "url": "https://exemple.com/accompagnement",
+    "tags": ["accompagnement", "visibilite"],
+    "niveau": "intermédiaire"
+  },
+  {
+    "title": "Visibilité réseaux ESS",
+    "deadline": "2025-10-31",
+    "url": "https://exemple.com/visibilite",
+    "tags": ["visibilite", "partenaires"],
+    "niveau": "bas"
+  }
+]
